@@ -12,9 +12,11 @@ My approach:
 
 ## 📂 Case Studies
 
+## 📂 Case Studies
+
 | # | Case Study | Area | Status |
 |---|---|---|---|
-| 01 | E-commerce Revenue Decline Analysis | Sales / E-commerce | Completed |
+| 01 | Starbucks Business Analysis | Sales / Retail Analytics | Completed |
 | 02 | Customer Retention Analysis | Customer Analytics | Coming Soon |
 | 03 | Employee Attrition Analysis | HR Analytics | Coming Soon |
 | 04 | Marketing Campaign Analysis | Marketing Analytics | Coming Soon |
@@ -31,7 +33,7 @@ My approach:
 - Business recommendations
 - Company and industry analysis
 
-## 🛠️ Tools
+## 🛠️ Tools & Skills
 
 - SQL
 - Microsoft Excel
@@ -39,6 +41,9 @@ My approach:
 - Python
 - Pandas
 - Data Visualization
+- Business Analysis
+- KPI Analysis
+- Data Interpretation
 
 ## 📈 Goal
 
