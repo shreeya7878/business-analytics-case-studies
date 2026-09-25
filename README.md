@@ -10,7 +10,6 @@ My approach:
 
 **Business Problem → Analytical Questions → KPIs → Data Requirements → Hypotheses → Analysis → Insights → Recommendations**
 
-## 📂 Case Studies
 
 ## 📂 Case Studies
 
